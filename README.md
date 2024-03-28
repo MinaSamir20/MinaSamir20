@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.bing.com/images/blob?bcid=qHQa8cq9G9cGOSRJVJbY-4mtk37M.....-M"  />
+  <img height="150" src="https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png"/>
 </div>
 
 ###
