@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png"/>
+  <img height="150" src="https://rhtech.geekhunter.com.br/wp-content/uploads/2022/04/github.png"/>
 </div>
 
 ###
